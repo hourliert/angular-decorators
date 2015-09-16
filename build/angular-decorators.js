@@ -1,0 +1,5 @@
+/// <reference path="./all.d.ts" />
+var inject_1 = require('./inject');
+exports.Inject = inject_1.Inject;
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFuZ3VsYXItZGVjb3JhdG9ycy50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxtQ0FBbUM7QUFFbkMsdUJBQXFCLFVBQVUsQ0FBQztBQUF4QixpQ0FBd0IiLCJmaWxlIjoiYW5ndWxhci1kZWNvcmF0b3JzLmpzIiwic291cmNlc0NvbnRlbnQiOlsiLy8vIDxyZWZlcmVuY2UgcGF0aD1cIi4vYWxsLmQudHNcIiAvPlxuXG5leHBvcnQge0luamVjdH0gZnJvbSAnLi9pbmplY3QnOyJdLCJzb3VyY2VSb290IjoiL3NvdXJjZS8ifQ==
