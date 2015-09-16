@@ -1,6 +1,6 @@
 {
   "name": "angular-decorators",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A library written in Typescript.",
   "typescript": {
     "definition": "build/angular-decorators.d.ts"
@@ -10,7 +10,6 @@
     "test": "test"
   },
   "scripts": {
-    "preinstall": "npm install --ignore-scripts",
     "postinstall": "tsd link",
     "test": "gulp ci"
   },
